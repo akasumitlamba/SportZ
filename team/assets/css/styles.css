@@ -1,0 +1,9 @@
+a:hover {
+  /*color: var(--bs-link-hover-color);*/
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
